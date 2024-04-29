@@ -1,7 +1,7 @@
 
 # Wealth of Nations Dataset Visualization Project 📊
 
-Welcome to the Wealth of Nations Dataset Visualization Project! This project focuses on analyzing and visualizing different indicators from the Wealth of Nations dataset.
+Welcome to the Wealth of Nations Dataset Visualization Project! This project focuses on analyzing and visualizing different economic indicators from the Wealth of Nations dataset.
 
 ## Overview
 
