@@ -205,5 +205,5 @@ Each bubble is labelled by the name of the corresponding country.<br>
 By combining the bar chart and line chart, we can gain a richer understanding of the complex interplay between economic development and health outcomes across different countries.<br>
 ![image](https://github.com/JiheneGouider/Wealth-of-Nations-Excel-and-Tableau-Project/assets/168087527/b491cb48-e175-4ed6-9ee1-6787b4f98339)
 
-
+[Link to dashboard](https://public.tableau.com/app/profile/jihene.gouider/viz/Dashboard1_17152545227820/DashboardDataVisualization )
 
